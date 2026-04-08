@@ -1,5 +1,0 @@
-linea original
-
-Segundo cambio desde main
-Cambios desde la rama developer
-
